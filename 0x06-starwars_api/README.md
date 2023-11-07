@@ -1,1 +1,1 @@
-# 0x06-starwars_api
+# Solutions to tasks on 0x06. Star Wars API
